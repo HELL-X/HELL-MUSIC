@@ -27,7 +27,7 @@
         "BOT_IMAGE": {
             "description": "𝑰𝒎𝒂𝒈𝒆 𝑻𝒉𝒖𝒎𝒃𝒏𝒂𝒊𝒍 𝑳𝒊𝒏𝒌 𝑶𝒇 𝒀𝒐𝒖𝒓 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕",
             "required": true,
-            "value": "https://telegra.ph/file/8fd190dce43663f755088.JPG"
+            "value": "https://telegra.ph/file/8fd190dce43663f755088.jpg"
         },
         "BOT_NAME": {
             "description": "𝒀𝒐𝒖𝒓 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑵𝒂𝒎𝒆",
@@ -41,7 +41,7 @@
         "BOT_USERNAME": {
             "description": "𝒀𝒐𝒖𝒓 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑼𝒔𝒆𝒓𝒏𝒂𝒎𝒆 (𝑾𝒊𝒕𝒉𝒐𝒖𝒕 '@')",
             "required": true,
-            "value": "HELL_vcbot"
+            "value": "HELL_X_MUSIC_ASSISTANT"
         },
         "DURATION_LIMIT": {
             "description": "𝑺𝒆𝒕 𝑴𝒂𝒙𝒊𝒎𝒖𝒎 𝑴𝒖𝒔𝒊𝒄 𝑫𝒖𝒓𝒂𝒕𝒊𝒐𝒏 𝑳𝒊𝒎𝒊𝒕 (𝑴𝒊𝒏𝒖𝒕𝒆𝒔) 𝒀𝒐𝒖 𝑾𝒂𝒏𝒕",
@@ -56,7 +56,7 @@
         "OWNER_USERNAME": {
             "description": "𝑼𝒔𝒆𝒓𝒏𝒂𝒎𝒆 𝑶𝒇 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
             "required": true,
-            "value": ""
+            "value": "HELL_X_EMPIRE"
         },
         "SOURCE_CODE": {
             "description": "𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚 𝑳𝒊𝒏𝒌 𝑭𝒐𝒓 𝑭𝒖𝒕𝒖𝒓𝒆 𝑼𝒑𝒅𝒂𝒕𝒆𝒔",
@@ -76,12 +76,12 @@
         "SUPPORT_GROUP": {
             "description": "𝒀𝒐𝒖𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑮𝒓𝒐𝒖𝒑 𝑭𝒖𝒍𝒍 𝑳𝒊𝒏𝒌",
             "required": true,
-            "value": "https://t.me/"
+            "value": "https://t.me/SCHOOL_WALLI_MASTII"
         },
         "UPDATES_CHANNEL": {
             "description": "𝒀𝒐𝒖𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑭𝒖𝒍𝒍 𝑳𝒊𝒏𝒌",
             "required": true,
-            "value": "https://t.me/"
+            "value": "https://t.me/HELL_X_EMPIRE"
         }
     },
     "buildpacks": [{
