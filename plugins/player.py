@@ -192,22 +192,22 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
+                            text="🥀 𝐎𝐰𝐧𝐞𝐫 🕊️",
                             url=f"https://t.me/{OWNER_USERNAME}")
                ],
                [
                     InlineKeyboardButton(
                             text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
-                            url=f"{UPDATES_CHANNEL}"),
+                            url=f"{https://t.me/HELL_X_EMPIRE}"),
                             
                     InlineKeyboardButton(
                             text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
-                            url=f"{SUPPORT_GROUP}")
+                            url=f"{https://t.me/SCHOOL_WALLI_MASTII}")
                ],
                [
                         InlineKeyboardButton(
                             text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"{PROFILE_CHANNEL}")
+                            url=f"{MAMBA_NETWORK}")
                    
                 ]
             ]
@@ -245,22 +245,22 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
+                            text="🥀 𝐎𝐰𝐧𝐞𝐫 🕊️",
                             url=f"https://t.me/{OWNER_USERNAME}")
                ],
                [
                     InlineKeyboardButton(
                             text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
-                            url=f"{UPDATES_CHANNEL}"),
+                            url=f"{https://t.me/HELL_X_EMPIRE}"),
                             
                     InlineKeyboardButton(
                             text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
-                            url=f"{SUPPORT_GROUP}")
+                            url=f"{https://t.me/SCHOOL_WALLI_MASTII}")
                ],
                [
                         InlineKeyboardButton(
                             text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"{PROFILE_CHANNEL}")
+                            url=f"{MAMBA_NETWORK}")
                    
                 ]
             ]
@@ -281,16 +281,16 @@ async def play(_, message: Message):
                [
                     InlineKeyboardButton(
                             text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
-                            url=f"{UPDATES_CHANNEL}"),
+                            url=f"{https://t.me/HELL_X_EMPIRE}"),
                             
                     InlineKeyboardButton(
                             text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
-                            url=f"{SUPPORT_GROUP}")
+                            url=f"{https://t.me/SCHOOL_WALLI_MASTII}")
                ],
                [
                         InlineKeyboardButton(
                             text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"{PROFILE_CHANNEL}")
+                            url=f"{MAMBA_NETWORK}")
                    
                 ]
             ]
@@ -349,16 +349,16 @@ async def play(_, message: Message):
                [
                     InlineKeyboardButton(
                             text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
-                            url=f"{UPDATES_CHANNEL}"),
+                            url=f"{https://t.me/HELL_X_EMPIRE}"),
                             
                     InlineKeyboardButton(
                             text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
-                            url=f"{SUPPORT_GROUP}")
+                            url=f"{https://t.me/SCHOOL_WALLI_MASTII}")
                ],
                [
                         InlineKeyboardButton(
                             text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"{PROFILE_CHANNEL}")
+                            url=f"{MAMBA_NETWORK}")
                    
                 ]
             ]
