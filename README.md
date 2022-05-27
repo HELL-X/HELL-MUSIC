@@ -26,4 +26,4 @@ THIS BOT IS VERY POWERFULL VC MUSIC BOT
 #### Copy Pasters You Can Copy This But Must Give Credits ...
 
 ### Owner Of This Repository
-[![HELL Halder](https://te.legra.ph/file/8f9d2a593854d0c736201.png)](https://t.me/HELL_X_ASSISTANT)
+[![HELL Halder](https://te.legra.ph/file/8fd190dce43663f755088.jpg)](https://t.me/HELL_X_ASSISTANT)
