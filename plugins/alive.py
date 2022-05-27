@@ -40,8 +40,8 @@ async def start_(client: Client, message: Message):
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐰𝐧𝐞𝐫   » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/{OWNER_USERNAME})
-┣★ 𝐁𝐨𝐭-𝐒𝐨𝐮𝐫𝐜𝐞 » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞]({SOURCE_CODE})
+┣★ 𝐎𝐰𝐧𝐞𝐫   » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞]({https://t.me/OWNER_OF_B2K})
+┣★ 𝐁𝐨𝐭-𝐒𝐨𝐮𝐫𝐜𝐞 » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞]({https://github.com/Hell-x/HELLXMUSIC})
 ┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ➪ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞]({https://t.me/HELL_X_EMPIRE})
 ┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ➪ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞]({https://t.me/SCHOOL_WALLI_MASTII})
 ┗━━━━━━━━━━━━━━━━━┛
@@ -86,7 +86,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 𝐂𝐥𝐢𝐜𝐤 𝐌𝐞 𝐓𝐨 𝐆𝐞𝐭 𝐑𝐞𝐩𝐨 💞", url=f"{SOURCE_CODE}")
+                        "💥 𝐂𝐥𝐢𝐜𝐤 𝐌𝐞 𝐓𝐨 𝐆𝐞𝐭 𝐑𝐞𝐩𝐨 💞", url=f"{https://t.me/HELL_X_EMPIRE}")
                 ]
             ]
         ),
