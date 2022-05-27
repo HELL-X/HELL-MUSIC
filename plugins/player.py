@@ -193,7 +193,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫 🕊️",
-                            url=f"https://t.me/{OWNER_USERNAME}")
+                            url=f"https://t.me/{OWNER_OF_B2K}")
                ],
                [
                     InlineKeyboardButton(
@@ -207,8 +207,8 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"{MAMBA_NETWORK}")
-                   
+                            url=f"{https://t.me/POEMS_N_SHAYARI}")
+               
                 ]
             ]
         )
@@ -246,7 +246,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫 🕊️",
-                            url=f"https://t.me/{OWNER_USERNAME}")
+                            url=f"https://t.me/{OWNER_OF_B2K}")
                ],
                [
                     InlineKeyboardButton(
@@ -260,7 +260,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"{MAMBA_NETWORK}")
+                            url=f"{https://t.me/POEMS_N_SHAYARI}")
                    
                 ]
             ]
@@ -276,7 +276,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫 🕊️",
-                            url=f"https://t.me/{OWNER_USERNAME}")
+                            url=f"https://t.me/{OWNER_OF_B2K}")
                ],
                [
                     InlineKeyboardButton(
@@ -290,7 +290,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"{MAMBA_NETWORK}")
+                            url=f"{https://t.me/POEMS_N_SHAYARI}")
                    
                 ]
             ]
@@ -344,7 +344,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫 🕊️",
-                            url=f"https://t.me/{OWNER_USERNAME}")
+                            url=f"https://t.me/{OWNER_OF_B2K}")
                ],
                [
                     InlineKeyboardButton(
@@ -358,7 +358,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"{MAMBA_NETWORK}")
+                            url=f"{https://t.me/POEMS_N_SHAYARI}")
                    
                 ]
             ]
