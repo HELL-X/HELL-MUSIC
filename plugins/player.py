@@ -108,7 +108,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: HELL Halder (@HellHalder)",
+        f"Powered By: @HELL_X_EMPIRE",
         (255, 255, 255),
         font=font,
     )
@@ -183,7 +183,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://te.legra.ph/file/8fd190dce43663f755088.jpg"
+        thumb_name = "https://telegra.ph/file/8fd190dce43663f755088.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -193,7 +193,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫 🕊️",
-                            url=f"https://t.me/{OWNER_OF_B2K}")
+                            url=f"https://t.me/OWNER_OF_B2K")
                ],
                [
                     InlineKeyboardButton(
@@ -246,7 +246,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫 🕊️",
-                            url=f"https://t.me/{OWNER_OF_B2K}")
+                            url=f"https://t.me/OWNER_OF_B2K")
                ],
                [
                     InlineKeyboardButton(
@@ -268,7 +268,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://te.legra.ph/file/8fd190dce43663f755088.jpg"
+            thumb_name = "https://telegra.ph/file/8fd190dce43663f755088.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -276,7 +276,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫 🕊️",
-                            url=f"https://t.me/{OWNER_OF_B2K}")
+                            url=f"https://t.me/OWNER_OF_B2K")
                ],
                [
                     InlineKeyboardButton(
@@ -344,7 +344,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫 🕊️",
-                            url=f"https://t.me/{OWNER_OF_B2K}")
+                            url=f"https://t.me/OWNER_OF_B2K")
                ],
                [
                     InlineKeyboardButton(
